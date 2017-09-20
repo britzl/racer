@@ -1,2 +1,2 @@
-# racer
-Defold racing game
+# defold-empty
+Empty Defold project

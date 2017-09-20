@@ -1,0 +1,177 @@
+images {
+  image: "/assets/images/Cars/car_black_1.png"
+}
+images {
+  image: "/assets/images/Cars/car_black_2.png"
+}
+images {
+  image: "/assets/images/Cars/car_black_3.png"
+}
+images {
+  image: "/assets/images/Cars/car_black_4.png"
+}
+images {
+  image: "/assets/images/Cars/car_black_5.png"
+}
+images {
+  image: "/assets/images/Cars/car_black_small_1.png"
+}
+images {
+  image: "/assets/images/Cars/car_black_small_2.png"
+}
+images {
+  image: "/assets/images/Cars/car_black_small_3.png"
+}
+images {
+  image: "/assets/images/Cars/car_black_small_4.png"
+}
+images {
+  image: "/assets/images/Cars/car_black_small_5.png"
+}
+images {
+  image: "/assets/images/Cars/car_blue_1.png"
+}
+images {
+  image: "/assets/images/Cars/car_blue_2.png"
+}
+images {
+  image: "/assets/images/Cars/car_blue_3.png"
+}
+images {
+  image: "/assets/images/Cars/car_blue_4.png"
+}
+images {
+  image: "/assets/images/Cars/car_blue_5.png"
+}
+images {
+  image: "/assets/images/Cars/car_blue_small_1.png"
+}
+images {
+  image: "/assets/images/Cars/car_blue_small_2.png"
+}
+images {
+  image: "/assets/images/Cars/car_blue_small_3.png"
+}
+images {
+  image: "/assets/images/Cars/car_blue_small_4.png"
+}
+images {
+  image: "/assets/images/Cars/car_blue_small_5.png"
+}
+images {
+  image: "/assets/images/Cars/car_green_1.png"
+}
+images {
+  image: "/assets/images/Cars/car_green_2.png"
+}
+images {
+  image: "/assets/images/Cars/car_green_3.png"
+}
+images {
+  image: "/assets/images/Cars/car_green_4.png"
+}
+images {
+  image: "/assets/images/Cars/car_green_5.png"
+}
+images {
+  image: "/assets/images/Cars/car_green_small_1.png"
+}
+images {
+  image: "/assets/images/Cars/car_green_small_2.png"
+}
+images {
+  image: "/assets/images/Cars/car_green_small_3.png"
+}
+images {
+  image: "/assets/images/Cars/car_green_small_4.png"
+}
+images {
+  image: "/assets/images/Cars/car_green_small_5.png"
+}
+images {
+  image: "/assets/images/Cars/car_red_1.png"
+}
+images {
+  image: "/assets/images/Cars/car_red_2.png"
+}
+images {
+  image: "/assets/images/Cars/car_red_3.png"
+}
+images {
+  image: "/assets/images/Cars/car_red_4.png"
+}
+images {
+  image: "/assets/images/Cars/car_red_5.png"
+}
+images {
+  image: "/assets/images/Cars/car_red_small_1.png"
+}
+images {
+  image: "/assets/images/Cars/car_red_small_2.png"
+}
+images {
+  image: "/assets/images/Cars/car_red_small_3.png"
+}
+images {
+  image: "/assets/images/Cars/car_red_small_4.png"
+}
+images {
+  image: "/assets/images/Cars/car_red_small_5.png"
+}
+images {
+  image: "/assets/images/Cars/car_yellow_1.png"
+}
+images {
+  image: "/assets/images/Cars/car_yellow_2.png"
+}
+images {
+  image: "/assets/images/Cars/car_yellow_3.png"
+}
+images {
+  image: "/assets/images/Cars/car_yellow_4.png"
+}
+images {
+  image: "/assets/images/Cars/car_yellow_5.png"
+}
+images {
+  image: "/assets/images/Cars/car_yellow_small_1.png"
+}
+images {
+  image: "/assets/images/Cars/car_yellow_small_2.png"
+}
+images {
+  image: "/assets/images/Cars/car_yellow_small_3.png"
+}
+images {
+  image: "/assets/images/Cars/car_yellow_small_4.png"
+}
+images {
+  image: "/assets/images/Cars/car_yellow_small_5.png"
+}
+images {
+  image: "/assets/images/barrel_red.png"
+}
+images {
+  image: "/assets/images/barrel_red_down.png"
+}
+images {
+  image: "/assets/images/skidmark_long_1.png"
+}
+images {
+  image: "/assets/images/skidmark_long_2.png"
+}
+images {
+  image: "/assets/images/skidmark_long_3.png"
+}
+images {
+  image: "/assets/images/skidmark_short_1.png"
+}
+images {
+  image: "/assets/images/skidmark_short_2.png"
+}
+images {
+  image: "/assets/images/skidmark_short_3.png"
+}
+margin: 0
+extrude_borders: 1
+inner_padding: 0
