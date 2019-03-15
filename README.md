@@ -1,2 +1,2 @@
-# defold-empty
-Empty Defold project
+# racer
+Embryo for a racing game
